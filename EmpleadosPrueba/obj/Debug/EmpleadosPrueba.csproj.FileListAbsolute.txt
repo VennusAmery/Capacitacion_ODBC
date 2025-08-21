@@ -1,0 +1,11 @@
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe.config
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.exe
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\bin\Debug\EmpleadosPrueba.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.AssemblyReference.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Form1.resources
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Properties.Resources.resources
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.GenerateResource.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.csproj.CoreCompileInputs.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.exe
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Tareas\Capacitacion2\EmpleadosPrueba\EmpleadosPrueba\obj\Debug\EmpleadosPrueba.Consulta.resources
